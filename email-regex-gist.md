@@ -43,6 +43,9 @@ This bracket expression allows any lowercase letter, number, underscore, period,
 
 ### Character Classes
 
+**`\d`**
+Represents any digit, equivalent to `[0-9]`. Used in the domain part of the regex to match numbers.
+
 ### The OR Operator
 
 ### Flags
