@@ -33,6 +33,9 @@ The `+` quantifier matches one or more of the preceding element, making sure tha
 
 ### Grouping Constructs
 
+**Parentheses `()`**
+Grouping constructs break the regex into three main parts: the local-part, the domain, and the top-level domain, allowing us to apply different rules to different parts of the email address.
+
 ### Bracket Expressions
 
 ### Character Classes
