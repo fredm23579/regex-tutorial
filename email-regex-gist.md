@@ -56,6 +56,9 @@ Explain any flags used with the regex (e.g., `i` for case insensitivity, `g` for
 
 ### Character Escapes
 
+**`\.`**
+Escapes the dot character to treat it as a literal dot in the email addresses rather than a wildcard character.
+
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
