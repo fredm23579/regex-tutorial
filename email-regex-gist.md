@@ -1,6 +1,8 @@
 # EMAIL REGEX TUTORIAL
 
-Introductory paragraph (replace this with your text)
+## Introduction
+
+In this tutorial, we will break down the components of a regular expression designed to validate email addresses. Regular expressions are powerful tools for pattern matching, and understanding how to build them can greatly enhance your coding projects.
 
 ## Summary
 
