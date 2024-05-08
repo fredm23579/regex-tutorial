@@ -1,4 +1,4 @@
-# EMAIL REGEX TUTORIAL
+# Regex Tutorial: Email Validation
 
 ## Introduction
 
@@ -6,7 +6,7 @@ In this tutorial, we will break down the components of a regular expression desi
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+This tutorial explains the regex used for email validation: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. We will explore how each part of this expression works to ensure that a string matches a valid email format.
 
 ## Table of Contents
 
@@ -22,6 +22,9 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
+
+**`^` and `$`**
+The caret `^` matches the start of a string, while the dollar sign `$` matches the end. This ensures that the regex does not allow characters outside the specific pattern of an email address.
 
 ### Quantifiers
 
