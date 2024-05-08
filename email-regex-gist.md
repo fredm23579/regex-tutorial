@@ -61,4 +61,4 @@ Escapes the dot character to treat it as a literal dot in the email addresses ra
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+This tutorial was written by [Fred Motta](https://github.com/fredm23579). Feel free to visit my GitHub profile for more tutorials and code snippets.
