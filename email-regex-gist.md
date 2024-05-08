@@ -38,6 +38,9 @@ Grouping constructs break the regex into three main parts: the local-part, the d
 
 ### Bracket Expressions
 
+**`[a-z0-9_\.-]`**
+This bracket expression allows any lowercase letter, number, underscore, period, or hyphen in the local-part of the email.
+
 ### Character Classes
 
 ### The OR Operator
