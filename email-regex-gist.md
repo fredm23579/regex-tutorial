@@ -52,6 +52,8 @@ Not applicable in the basic email regex but can be discussed as an optional oper
 
 ### Flags
 
+Explain any flags used with the regex (e.g., `i` for case insensitivity, `g` for global search). Our basic email regex does not use flags, but they can be critical in other contexts.
+
 ### Character Escapes
 
 ## Author
