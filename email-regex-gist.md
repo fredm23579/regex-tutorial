@@ -48,6 +48,8 @@ Represents any digit, equivalent to `[0-9]`. Used in the domain part of the rege
 
 ### The OR Operator
 
+Not applicable in the basic email regex but can be discussed as an optional operator to match multiple patterns within a regex.
+
 ### Flags
 
 ### Character Escapes
