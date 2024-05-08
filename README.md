@@ -18,9 +18,11 @@ As web development students, you will often find yourself both writing code and 
 
 ## What Is a Regex?
 
-A **regex**, short for **regular expression**, is a sequence of characters that forms a search pattern. When used in code or search algorithms, regex can be applied to find or replace patterns of characters within strings. They are frequently utilized to validate inputs like email addresses, URLs, and phone numbers.
+A **regex**, short for **regular expression**, is a sequence of characters that forms a search pattern. When used in code or search algorithms, regex can be applied to find or replace patterns of characters within strings. They are frequently utilized to validate inputs like email addresses, URLs, and phone numbers. The regex can also be used to validate input values, such as passwords or credit card numbers.
 
-## Summary
+The **regex** used in this project is focused on validating **email addresses** using a **regular expression** that matches the following pattern: [`/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`](https://gist.github.com/fredm23579/841976d76ec9e98eff5bb09361db1720)
+
+## Description
 
 This tutorial will break down the regular expression used for email validation: `/^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/`. This regex ensures a user enters a valid email format by checking for a sequence of characters followed by an "@" symbol, a domain name, and a domain suffix.
 
