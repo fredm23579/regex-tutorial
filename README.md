@@ -1,8 +1,4 @@
-Certainly! Here's a revised version of the entire regex tutorial, incorporating your feedback for improved clarity and depth:
-
----
-
-# 17 Computer Science for JavaScript: Regex Tutorial: Email Validation
+# Regex Tutorial: Email Validation
 
 ## Your Task
 
@@ -70,8 +66,4 @@ The backslash `\` is used to escape special characters within the regex, ensurin
 
 ## Author
 
-This tutorial was crafted by [Your Name](https://github.com/yourgithubprofile). Visit my GitHub profile for more tutorials and insights into coding and software development.
-
----
-
-This structured approach to the tutorial ensures clarity and depth, making it a comprehensive guide for understanding the components of a regex for email validation.
+This tutorial was crafted by [Fred Motta](https://github.com/fredm2357). Visit my GitHub profile for more tutorials and insights into coding and software development.

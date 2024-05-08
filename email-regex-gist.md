@@ -28,6 +28,9 @@ The caret `^` matches the start of a string, while the dollar sign `$` matches t
 
 ### Quantifiers
 
+**`+` and `{2,6}`**
+The `+` quantifier matches one or more of the preceding element, making sure that each part of the email has at least one character. The `{2,6}` quantifier specifies that the top-level domain must be between 2 to 6 letters long.
+
 ### Grouping Constructs
 
 ### Bracket Expressions
